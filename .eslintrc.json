@@ -43,6 +43,7 @@
         "allowExpressions": true
       }
     ],
+    "@typescript-eslint/no-explicit-any": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
